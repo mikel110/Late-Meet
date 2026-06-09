@@ -686,7 +686,6 @@ git push origin feature/your-feature-name
 | [#526](https://github.com/shouri123/Late-Meet/issues/526) | \[BUG\] Options page blocks non-secret settings saves when credential storage is locked | General |
 | [#494](https://github.com/shouri123/Late-Meet/issues/494) | \[CHORE\] \`config.ts\` only contains 3 constants — 7+ magic numbers in background.ts and offscreen.ts are uncentralized | General |
 | [#470](https://github.com/shouri123/Late-Meet/issues/470) | \[A11Y\] Comprehensive ARIA Accessibility for Dashboard | General |
-| [#466](https://github.com/shouri123/Late-Meet/issues/466) | \[FEAT\] Clear Data Button in Settings | General |
 
 
 #### 🔴 Advanced — `level-3`
